@@ -23,7 +23,7 @@ body{
 
 #showcase{
   background-color: #000000;
-  /*background-image: url('img/badminton.jpg');*/
+  background-image: url('img/badminton.png');
   background-size: cover;
   background-position: center;
   height: 100vh;
